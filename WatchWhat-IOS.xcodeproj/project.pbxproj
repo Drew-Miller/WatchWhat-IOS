@@ -14,6 +14,7 @@
 		5609E88929157ADA008B5027 /* WatchWhat_IOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5609E88829157ADA008B5027 /* WatchWhat_IOSTests.swift */; };
 		5609E89329157ADA008B5027 /* WatchWhat_IOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5609E89229157ADA008B5027 /* WatchWhat_IOSUITests.swift */; };
 		5609E89529157ADA008B5027 /* WatchWhat_IOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5609E89429157ADA008B5027 /* WatchWhat_IOSUITestsLaunchTests.swift */; };
+		5609E8A429157FD7008B5027 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 5609E8A329157FD7008B5027 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		5609E88E29157ADA008B5027 /* WatchWhat-IOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "WatchWhat-IOSUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5609E89229157ADA008B5027 /* WatchWhat_IOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchWhat_IOSUITests.swift; sourceTree = "<group>"; };
 		5609E89429157ADA008B5027 /* WatchWhat_IOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchWhat_IOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5609E8A329157FD7008B5027 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		5609E86B29157AD4008B5027 = {
 			isa = PBXGroup;
 			children = (
+				5609E8A329157FD7008B5027 /* .gitignore */,
 				5609E87629157AD4008B5027 /* WatchWhat-IOS */,
 				5609E88729157ADA008B5027 /* WatchWhat-IOSTests */,
 				5609E89129157ADA008B5027 /* WatchWhat-IOSUITests */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5609E87F29157ADA008B5027 /* Preview Assets.xcassets in Resources */,
+				5609E8A429157FD7008B5027 /* .gitignore in Resources */,
 				5609E87C29157ADA008B5027 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
